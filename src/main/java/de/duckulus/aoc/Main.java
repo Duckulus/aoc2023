@@ -1,11 +1,11 @@
 package de.duckulus.aoc;
 
-import de.duckulus.aoc.days.Day3;
+import de.duckulus.aoc.days.Day4;
 
 public class Main {
 
     public static void main(String[] args) {
-        new Day3().run();
+        new Day4().run();
     }
 
 }
